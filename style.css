@@ -1,0 +1,68 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #0b1220;
+  color: #e6e9f0;
+}
+.container {
+  width: 90%;
+  max-width: 960px;
+  margin: auto;
+}
+header {
+  background: linear-gradient(135deg, #0b63a6, #05142b);
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+header h1 {
+  font-size: 2.2em;
+  margin: 0;
+}
+header p {
+  margin: 10px 0 20px;
+  font-size: 1.1em;
+}
+.btn {
+  display: inline-block;
+  background: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: 0.3s;
+}
+.btn:hover {
+  background: #3399ff;
+}
+section {
+  background: #101a2c;
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+}
+section h2 {
+  color: #4da6ff;
+  border-bottom: 2px solid #1f4068;
+  padding-bottom: 5px;
+}
+ul {
+  margin: 10px 0 0 20px;
+}
+.job h3 {
+  color: #80c1ff;
+}
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #08111f;
+  font-size: 0.9em;
+  color: #aab4c5;
+  margin-top: 30px;
+}
+.contact {
+  text-align: center;
+}

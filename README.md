@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23286677/README.md)
 # Alok Patra Portfolio - Vercel Deployment
 
 ## Files Included
