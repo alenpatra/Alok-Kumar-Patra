@@ -1,8 +1,17 @@
-# Alok Kumar Patra – Portfolio
+[README.md](https://github.com/user-attachments/files/23286677/README.md)
+# Alok Patra Portfolio - Vercel Deployment
 
-This is my personal portfolio website showcasing my career highlights, achievements, and skills.
+## Files Included
+- index.html
+- style.css
+- Alok_Patra_Portfolio.pdf
 
-## 🚀 Run Locally
-```bash
-npm install
-npm run dev
+## Deploy to Vercel
+
+1. Go to [https://vercel.com/signup](https://vercel.com/signup) and sign in with your GitHub account.
+2. Create a new GitHub repository (e.g. `alok-portfolio`).
+3. Upload these files to your GitHub repository.
+4. On Vercel, click “New Project” → “Import from GitHub” → select your repo.
+5. Click **Deploy**.
+6. Your portfolio will be live at `https://yourprojectname.vercel.app`.
+
